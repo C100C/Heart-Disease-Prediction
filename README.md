@@ -1,7 +1,7 @@
 # Heart-Disease-Prediction
 
 ## Overview
-This project created `two logistic regression models to predict the likelihood of heart disease. And created a classification random forest to predict the risk of heart disease.` We also created a regression random forest to predict maximum heart rate. The analysis compares model performance, evaluates statistical significance, and highlights practical applications for medical risk assessment and research. Created as a project for MAT 303 at Southern New Hampshire University.
+This project created `two logistic regression models` to predict the likelihood of heart disease. And created a `classification random forest` to predict the risk of heart disease. We also created a regression random forest to predict maximum heart rate. The analysis compares model performance, evaluates statistical significance, and highlights practical applications for medical risk assessment and research. Created as a project for MAT 303 at Southern New Hampshire University.
 
 
 ## Dataset
